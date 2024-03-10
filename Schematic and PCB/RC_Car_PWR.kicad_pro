@@ -425,6 +425,10 @@
     [
       "10b1fa72-c369-45a6-b778-9504a607a8f3",
       "USB to UART"
+    ],
+    [
+      "c1374e90-c8b1-4a16-b5ca-9f5af2784571",
+      "Power supply"
     ]
   ],
   "text_variables": {}
