@@ -2860,6 +2860,30 @@
 		)
 		(uuid "ffb6fbff-fb9c-4df0-9cde-d8987841af35")
 	)
+	(rectangle
+		(start 95.25 31.75)
+		(end 106.68 39.37)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a0e470ad-f139-46f9-8c5f-b360cb8aa337)
+	)
+	(text "diff pair"
+		(exclude_from_sim no)
+		(at 101.092 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "ba117802-b161-4b68-bbf8-f240447901c4")
+	)
 	(global_label "EN"
 		(shape input)
 		(at 72.39 132.08 0)
